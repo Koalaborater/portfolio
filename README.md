@@ -21,7 +21,7 @@ A modern, responsive portfolio website for a digital agency showcasing comprehen
 
 ## 🛠 Tech Stack
 
-- **Framework:** Next.js 14
+- **Framework:** Next.js 15
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Animations:** Framer Motion
