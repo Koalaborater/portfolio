@@ -126,7 +126,7 @@ export const metadata: Metadata = {
     },
     manifest: "/manifest.json",
     verification: {
-        google: "your-google-verification-code",
+        google: "x-0ZCgh9cKrpclZcBVOtbOH5GWQMzXLFSm_wK1ASKyo",
         // Will add other indexing later on
         // yandex: "your-yandex-verification-code",
         // yahoo: "your-yahoo-verification-code",
@@ -146,7 +146,12 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en" suppressHydrationWarning>
-            <head />
+            <head>
+                <meta
+                    name="google-site-verification"
+                    content="x-0ZCgh9cKrpclZcBVOtbOH5GWQMzXLFSm_wK1ASKyo"
+                />
+            </head>
             <body
                 className={`${inter.className} antialiased min-h-screen bg-background text-foreground`}
                 suppressHydrationWarning
