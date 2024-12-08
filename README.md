@@ -1,4 +1,4 @@
-# Digital Agency Portfolio
+# Koalaborate Portfolio
 
 A modern, responsive portfolio website for a digital agency showcasing comprehensive digital solutions and services. Built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -36,7 +36,7 @@ A modern, responsive portfolio website for a digital agency showcasing comprehen
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/digital-agency-portfolio.git
+git clone https://github.com/koalaborater/portfolio.git
 ```
 
 2. Install dependencies:
@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- Koalaborate Team - Initial work - [Github](https://github.com/koalaborater)
 
 ## 🙏 Acknowledgments
 
