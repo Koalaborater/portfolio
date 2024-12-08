@@ -5,14 +5,9 @@ export default function robots(): MetadataRoute.Robots {
         rules: {
             userAgent: "*",
             allow: "/",
-            disallow: [
-                "/api/",
-                "/admin/",
-                "/private/",
-                "/*.json$",
-                "/*?*",
-            ],
+            disallow: ["/api/", "/admin/", "/private/", "/*.json$", "/*?*"],
         },
         sitemap: "https://www.koalaborate.com/sitemap.xml",
+        host: "https://www.koalaborate.com",
     };
 }

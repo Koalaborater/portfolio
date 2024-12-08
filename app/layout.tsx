@@ -10,12 +10,31 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
     metadataBase: new URL("https://www.koalaborate.com"),
     title: {
-        default: "Koalaborate - Your Complete Digital Solutions Partner",
+        default: "Koalaborate",
         template: "%s | Koalaborate",
     },
     description:
         "Leading digital agency specializing in web development, mobile apps, AI solutions, blockchain, design, and digital marketing. Transform your business with our innovative digital solutions.",
     keywords: [
+        "koalaborate",
+        "best software firm",
+        "digital agency",
+        "software developers",
+        "software solutions",
+        "IT solutions",
+        "ecommerce solutions",
+        "digital platform",
+        "nextjs developer",
+        "frontend development",
+        "backend development",
+        "landing pages",
+        "portfolio",
+        "web pages",
+        "websites",
+        "fullstack websites",
+        "softwares",
+        "automation",
+        "bot",
         "digital agency",
         "web development",
         "mobile apps",
@@ -58,7 +77,7 @@ export const metadata: Metadata = {
         locale: "en_US",
         url: "https://www.koalaborate.com",
         siteName: "Koalaborate",
-        title: "Koalaborate - Complete Digital Solutions Partner",
+        title: "Koalaborate",
         description:
             "Transform your business with our comprehensive digital solutions. Expert team delivering web development, mobile apps, design, and digital marketing services.",
         images: [
@@ -73,7 +92,7 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Koalaborate - Complete Digital Solutions Partner",
+        title: "Koalaborate",
         description:
             "Transform your business with our comprehensive digital solutions. Expert team delivering web development, mobile apps, design, and digital marketing services.",
         images: ["https://www.koalaborate.com/twitter-image.jpg"],
